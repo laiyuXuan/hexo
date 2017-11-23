@@ -3,6 +3,7 @@ title: Docker 1.13 新特性top10
 date: 2017-01-13 16:34:04
 tags:
 - docker
+categories: 其他
 
 ---
 

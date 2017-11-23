@@ -2,6 +2,7 @@
 title: maven 笔记
 date: 2016-01-16 15:58:31
 tags: maven
+categories: 其他
 ---
 
 ### 生成项目骨架
