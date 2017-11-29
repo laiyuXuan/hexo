@@ -89,6 +89,9 @@ SSH同样使用了非对称加密。
 
 #### bitcoin
 
+比特币中的非对称算法采用的是[secp256k1 ECDSA](https://en.bitcoin.it/wiki/Secp256k1)。其中私钥是使用SHA-256生成的32字节的随机数。通过私钥得到公钥后，经过双哈希(SHA256, RIPPLE160)和BASE58CHECK编码生成地址，即可进行交易。
+
+
 
 
 
